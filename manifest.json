@@ -1,19 +1,19 @@
 {
-  "short_name": "Maps",
-  "name": "Google Maps",
+  "short_name": "SCM1",
+  "name": "Scanette",
   "icons": [
     {
-      "src": "/images/icons-192.png",
+      "src": "images/logo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/images/icons-512.png",
+      "src": "images/logo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": "/maps/?source=pwa",
+  "start_url": "https://timothejeannot.github.io/pwa/",
   "background_color": "#3367D6",
   "display": "standalone",
   "scope": "/maps/",
