@@ -3,12 +3,12 @@
   "name": "Scanette",
   "icons": [
     {
-      "src": "images/logo.png",
+      "src": "icons/icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "images/logo.png",
+      "src": "icons/icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -16,7 +16,7 @@
   "start_url": "https://timothejeannot.github.io/pwa/",
   "background_color": "#3367D6",
   "display": "standalone",
-  "scope": "/maps/",
+  "scope": "/pwa/",
   "theme_color": "#3367D6"
 }
 
